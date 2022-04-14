@@ -21,7 +21,7 @@
     }
 
     .nav-input-mobile:hover{
-        background-color: #757575;
+        background-color: #ffd154;
     }
 
     .about-content {
@@ -43,7 +43,7 @@
     }
 
     .modal-menu-mobile{
-        background-color: black;
+        background-color: #ffd154;
         padding: 0px auto;
         line-height: 60px;
         transform: translateX(-100%);
