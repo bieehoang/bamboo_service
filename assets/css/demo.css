@@ -13,7 +13,7 @@
 
     .nav-input-mobile{
         display: inline;
-        color:#fff;
+        color: #002795;
         line-height: 100%;
         position: absolute;
         font-size: 20px;
@@ -54,8 +54,9 @@
     .modal-menu-mobile li a{
         text-decoration: none;
         text-transform: uppercase;
-        color: #fff;
+        color: #002795;
         display: block;
+        font-weight: 580;
     }
 
     .modal-menu-mobile li:hover{
@@ -139,6 +140,11 @@
 /* Mobile & Tab */
 @media screen and ( min-width:0em ) and ( max-width: 64em)
 {
+    
+    .modal-menu-mobile{
+        background-color: #ffd154;
+    }
+
     .button-large{
         font-size: larger;
     }
