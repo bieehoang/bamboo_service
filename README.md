@@ -1,4 +1,4 @@
-A web-app order clean service, Vietnamese Language so available with alomost Vietnamese.
+A web-app order clean service, Vietnamese Language so available with almost Vietnamese.
 
 Position: Developer, Designer, Tester..
 //
