@@ -1,22 +1,9 @@
-A web-app order clean service, Vietnamese Language so available with almost Vietnamese.
+![bamboo_service](https://user-images.githubusercontent.com/99249759/197256584-ae4a0b93-3aff-4864-87bd-e6742d0157dc.png)
 
-Position: Developer, Designer, Tester..
-
-//
-Team-size: 1.
-
-//
-The languague programing :
-+ Javascript
-//.
-
-Coded by Quy Trung
-
->
 # A web-app order clean service, Vietnamese Language so available with almost Vietnamese.
 > To see it you can copy the link I wrote here and paste in any browsers you are using.
 
-## LIVE SERVER
+## PREVIEW
 _Published at_ **https://qiese.github.io/bamboo_service/**
 >
 >**Position**: Developer, Designer, Tester..
