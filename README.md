@@ -9,8 +9,8 @@ _Published at_ **https://qiese.github.io/bamboo_service/**
 >
 >**Team size**: 1
 >
->**Language programming**:
->
+>**Language programming/Framework**:
+> - Boostrap5
 > - Javascript
 >
 >Thank you for spend time to review my project, if have any question or problem with please connect to me know. I'm so pleasure for that, thank you.
